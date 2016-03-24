@@ -1,7 +1,7 @@
 Compile: javac *.java
 Run: java e2c < 'filename' 
 
-See pdf for detail BNF grammar of the E language
+See pdf for detailed BNF grammar of the E language
 
 Part 5 implements for loop functions in E. 
 We chose for loop because it's the one essential functionality missing in E. 
