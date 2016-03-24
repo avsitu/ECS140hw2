@@ -1,0 +1,3 @@
+running e2c
+mustbe: want TK.ENDFOR, got Token(TK.EOF *EOF* 7)
+can't parse: line 7 missing token (mustbe)
